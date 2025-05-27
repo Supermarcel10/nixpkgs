@@ -15,7 +15,7 @@
 
 rustPlatform.buildRustPackage rec {
   pname = "lact";
-  version = "0.6.0";
+  version = "0.7.4";
 
   src = fetchFromGitHub {
     owner = "ilya-zlobintsev";
